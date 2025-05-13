@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "265a40e6d63edffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bbe825c31f19bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb9d5dcef82dce8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "569850cec86eca5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c12eec3bcfe6d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0472b5031cec1830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b56a74fc1cdc3518",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40531e4f2e5d09e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5680752146449727",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ea737a56c9b3ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113ae4914774366a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "short_resolved.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for short_resolved"
+            }
+          },
+          {
+            "id": "9982fea0e105248d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "short_resolved.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from short_resolved"
+            }
+          },
+          {
+            "id": "7eaad04ddffddd5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ba1371deabebda4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "short_resolved.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of short_resolved"
+            }
+          },
+          {
+            "id": "47d0867eb2c91299",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 499.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0472b5031cec1830",
+  "lastOpenFiles": [
+    "커버_이미지.png",
+    "short_unresolved.md",
+    "README.md",
+    "RESOLVED.md"
+  ]
+}
