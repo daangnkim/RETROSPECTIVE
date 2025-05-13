@@ -1,3 +1,20 @@
+
+## `<Pagination/>`과 이벤트 핸들러
+
+Pagination 컴포넌트를 구현하다보니 onClickNext, onClickPrevious, onClickPageIndex를 Prop으로 넘겨주게 된다. 여기서 onClickPrevious, onClickNext의 이벤트 핸들러에 인자를 넘겨줄 때 currentPage를 넘겨주고 이벤트 핸들러 내에서 currentPage - 1, currentPage + 1 각각을 처리하는게 맞을까 아니면 currentPage - 1, currentPage + 1을 해서 인자로 넘
+겨주는게 맞을까?
+
+생각해보면 컴포넌트 라이브러리들은(굳이 `<Pagination/>`컴포넌트가 아니더라도) 이벤트 핸들러를 전달하면 다음과 같이 새로운 상태를 인자로하여 함수가 호출되는게 기본이다.
+
+```jsx
+<List
+	list={list}
+	onClickItem={(item) => setTargetItem(item)}
+/>
+```
+
+굳이 위 케이스가 아니더라도, onClickPageIndex의 경우 새로운 상태가 반드시 인자로하여 함수가 호출돼야한다. 굳이 onClickNext나 onClickPreviouse만 현재 상태를 인자로 받아서 업데이트할 필요는 없는 듯
+
 ## 희소배열 멀리하기
 
 자바스크립트 배열은 배열 흉내를 내는 객체이다. 그리고 희소 배열(sparse array)이다.
@@ -34,7 +51,7 @@ const targetItems = arr[targetIndex].items;
 
 다만 `find` 메서드는 찾지 못하는 경우 `undefined` 타입이 되기 때문에 비교적 이러한 위험으로부터 안전하다.
 
-## [NAMING] 변수명을 지을 때 prefix로 `prior` vs `previous`
+##  변수명을 지을 때 prefix로 `prior` vs `previous`
 
 [Prior vs Previous: Definition, Uses, Examples | Proofreading](https://www.proofreading.co.uk/blog/prior-vs-previous-definition-uses-examples/)에 의하면, previous는 순서상 단순 이전을 나타내고 prior은 현재와 관련이 있는 이전의 일을 의미한다.
 
@@ -44,7 +61,7 @@ const targetItems = arr[targetIndex].items;
 변수명을 지을 때 대입해보면, 캐러셀 혹은 페이지네이션과 같이 배열 기반 UI에서 이전 컨텐츠를 보기 위한 버튼 명은 `previous`가 적합하다.
 만약 어떤 상태를 바꿔야하는데, 이전 상태에 기반하여 현재 상태를 업데이트 해야 한다면 `prior`가 적합하다.
 
-## [JAVASCRIPT] `Nullish Coalescing Operator(??)`로 코드 단축하기
+## `Nullish Coalescing Operator(??)`로 코드 단축하기
 
 종종 다음과 같은 패턴을 사용할 때가 존재한다.
 
@@ -62,11 +79,11 @@ array[id] = array[id] || initialValue;
 array[id] ??= initialValue;
 ```
 
-## [NAMING] ~의 개수 네이밍시 `count` vs `number`
+## ~의 개수 네이밍시 `count` vs `number`
 
 크게 count를 이용하는 방법과 number를 이용하는 방법이 있는데, number의 경우 [중의적인 의미(`index` | `count`)](https://stackoverflow.com/questions/6358588/how-to-name-a-variable-numitems-or-itemcount)가 담길 수 있으므로 가급적 count를 사용한다.
 
-## [JAVASCRIPT] if 문의 범위 잡기
+## if 문의 범위 잡기
 
 if 문의 범위를 너무 크게 잡으면, 가독성은 좋을 수 있으나 반복되는 코드가 많아질 수 있고, if 문의 범위를 너무 작게 잡으면, 반복되는 코드는 적어지나 가독성은 나빠질 수 있다.
 
