@@ -11,13 +11,32 @@
             "id": "2fb9d5dcef82dce8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "기술적인-회고.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "기술적인-회고"
+            }
+          },
+          {
+            "id": "0499f104245c45b3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0472b5031cec1830",
+  "active": "47d0867eb2c91299",
   "lastOpenFiles": [
-    "커버_이미지.png",
-    "short_unresolved.md",
+    "기술적인-회고.md",
+    "cover-image.png",
+    "주제별/LLM_설계.md",
     "README.md",
-    "RESOLVED.md"
+    "주제별/short_unresolved.md",
+    "주제별/Feature-Sliced-Design-폴더구조.md"
   ]
 }
