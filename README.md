@@ -2,4 +2,4 @@
 
 ![alt text](cover-image.png)
 
-기술적 혹은 비기술적인 경험에 대한 회고를 저장합니다.
+tech, ui/ux, organization과 관련한 고민 및 회고를 작성합니다.
