@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ui-ux-고민.md",
+                "file": "ui-ux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ui-ux-고민"
+              "title": "ui-ux"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주제별/WIP-react-hook-form.md",
+                "file": "ui-ux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP-react-hook-form"
+              "title": "ui-ux"
             }
           }
         ],
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5680752146449727",
@@ -222,13 +223,13 @@
   },
   "active": "e4723d18eef666df",
   "lastOpenFiles": [
-    "주제별/WIP-Feature-Sliced-Design-폴더구조.md",
     "주제별/WIP-react-hook-form.md",
+    "주제별/WIP-Feature-Sliced-Design-폴더구조.md",
     "기술적인-회고.md",
     "README.md",
     "cover-image.png",
     "tech-고민.md",
-    "ui-ux-고민.md",
+    "ui-ux.md",
     "주제별/LLM_설계.md",
     "주제별/short_unresolved.md"
   ]
