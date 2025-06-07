@@ -181,14 +181,22 @@
   },
   "active": "530ab9111facc639",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "주제별/페이지_네비게이션시_데이터_전달_방법.md",
+    "주제별/컴포넌트를 만드는 기준.md",
+    "주제별/드랍다운.md",
+    "주제별/useReducer를_통한_가독성향상.md",
+    "주제별/daisyui_장점과_단점.md",
+    "주제별/LLM-설계.md",
+    "주제별/FSD-폴더구조.md",
+    "tech-debt.md",
     "주제별/WIP-react-hook-form.md",
     "tech.md",
     "debt.md",
-    "README.md",
     "ui-ux.md",
     "주제별/WIP-LLM-설계.md",
     "주제별/WIP-컴포넌트를 만드는 기준.md",
-    "주제별/드랍다운.md",
     "주제별/WIP-daisyui-장점과-단점.md",
     "주제별/WIP-FSD-폴더구조.md",
     "주제별/WIP-Feature-Sliced-Design-폴더구조.md",
@@ -199,11 +207,6 @@
     "cover-image.png",
     "주제별/입력_요소를_포함한_모달.md",
     "주제별/웹_저장소_사용방법.md",
-    "주제별/페이지_네비게이션시_데이터_전달_방법.md",
-    "주제별/모달을_닫는_타이밍.md",
-    "주제별/useReducer를_통한_가독성향상.md",
-    "주제별/Feature-Sliced-Design-폴더구조.md",
-    "비기술적인-회고.md",
-    "주제별/short_unresolved.md"
+    "주제별/모달을_닫는_타이밍.md"
   ]
 }
