@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72186f2268ce83ec",
+        "id": "d5abdef1a3a0e4e8",
         "type": "tabs",
         "children": [
           {
-            "id": "530ab9111facc639",
+            "id": "4e50a24058419e2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "주제별/WIP-컴포넌트를 만드는 기준.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WIP-컴포넌트를 만드는 기준"
+              "title": "New tab"
             }
           }
         ]
@@ -181,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "530ab9111facc639",
+  "active": "4e50a24058419e2a",
   "lastOpenFiles": [
+    "주제별/WIP-컴포넌트를 만드는 기준.md",
     "주제별/WIP-FSD-폴더구조.md",
     "주제별/WIP-Feature-Sliced-Design-폴더구조.md",
     "주제별/WIP-LLM-설계.md",
@@ -200,7 +197,6 @@
     "tech.md",
     "debt.md",
     "ui-ux.md",
-    "주제별/WIP-컴포넌트를 만드는 기준.md",
     "주제별/WIP-daisyui-장점과-단점.md",
     "비공개/README.md",
     "tech-고민.md",
