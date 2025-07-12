@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "tailwindcss"
             }
+          },
+          {
+            "id": "04b139c2679162c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "주제별/axios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "axios"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,9 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04b1b1334a3567bf",
+  "active": "04b139c2679162c0",
   "lastOpenFiles": [
     "주제별/tailwindcss.md",
+    "주제별/axios.md",
     "주제별/typescript-마이그레이션-팁.md",
     "주제별/WIP-FSD-폴더구조.md",
     "주제별/react-hook-form.md",
@@ -235,7 +250,6 @@
     "비공개/README.md",
     "tech-고민.md",
     "비공개/비기술적.md",
-    "기술적인-회고.md",
-    "주제별/입력_요소를_포함한_모달.md"
+    "기술적인-회고.md"
   ]
 }
