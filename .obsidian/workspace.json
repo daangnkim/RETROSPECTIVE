@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5abdef1a3a0e4e8",
+        "id": "21f34ec4691a1355",
         "type": "tabs",
         "children": [
           {
-            "id": "4e50a24058419e2a",
+            "id": "374051cc5116574d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tech"
+              "title": "New tab"
             }
           }
         ]
@@ -180,12 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e50a24058419e2a",
+  "active": "374051cc5116574d",
   "lastOpenFiles": [
+    "tech.md",
     "tech-debt.md",
     "debt.md",
     "README.md",
-    "tech.md",
     "주제별/WIP-컴포넌트를 만드는 기준.md",
     "주제별/WIP-FSD-폴더구조.md",
     "주제별/WIP-Feature-Sliced-Design-폴더구조.md",
