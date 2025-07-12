@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주제별/tailwindcss.md",
+                "file": "주제별/css-라이브러리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tailwindcss"
+              "title": "css-라이브러리"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주제별/axios.md",
+                "file": "주제별/http-요청-라이브러리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "axios"
+              "title": "http-요청-라이브러리"
             }
           }
         ],
@@ -224,11 +224,11 @@
   },
   "active": "04b139c2679162c0",
   "lastOpenFiles": [
-    "주제별/tailwindcss.md",
-    "주제별/axios.md",
+    "주제별/css-라이브러리.md",
+    "주제별/react-hook-form.md",
+    "주제별/http-요청-라이브러리.md",
     "주제별/typescript-마이그레이션-팁.md",
     "주제별/WIP-FSD-폴더구조.md",
-    "주제별/react-hook-form.md",
     "주제별/WIP-컴포넌트를 만드는 기준.md",
     "주제별/WIP-Feature-Sliced-Design-폴더구조.md",
     "cover-image.png",
