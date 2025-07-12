@@ -1,0 +1,5 @@
+본인은 styled component를 쓰다가 tailwind로 넘어왔다.
+
+styled compoentn를 처음 사용할 당시에는 semantic하게 태그를 작성할 수 있어 매우 매력적이었다. 그러다보니 매번 styled 컴포넌트를 호출하여 컴포넌트를 만들고, 이름을 고민하는 과정의 번거로움에 대한 감이 무뎌져 있었다. 걸리면 얼마나 걸리겠냐라는 인식이었다.
+
+근데 tailwind css를 사용하고나니 styled component에서 스타일 컴포넌트를 정의하는 과정이 매우 번거롭다는게 확 느껴졌다.
