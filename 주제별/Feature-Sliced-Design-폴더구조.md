@@ -4,7 +4,7 @@
 
 ## 각 Layer의 역할
 
-1. app
+w1. app
 
 	Provider, 라우팅 설정, 스타일 등 전역 설정 관련 파일을 저장한다.
 
@@ -19,3 +19,5 @@
 Layout 컴포넌트가 존재하고, Layout 컴포넌트를 구성하는 Header, Outlet, BottomTab 컴포넌트가 존재할 때, 얼핏보면 Header와 BottomTab은 `widget`에 저장돼야 할것 같지만 두 컴포넌트는 `slice(domain)`가 존재하지 않는다. 그리고 도메인이 존재하지 않는 폴더는 `app` 폴더와 `shared` 폴더 뿐이다.
 
 그러므로 Layout은 전역 적으로 사용되므로 `app`폴더에 저장하고, 이를 구성하는 Header, BottomTab은 `shared`에 저장한다.
+
+
