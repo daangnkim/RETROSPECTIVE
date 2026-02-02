@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주제별/react-hook-form.md",
+                "file": "retrospective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react-hook-form"
+              "title": "retrospective"
             }
           }
         ]
@@ -184,15 +184,15 @@
   "active": "68518a294ab22680",
   "lastOpenFiles": [
     "주제별/Untitled.md",
-    "주제별/react-hook-form.md",
-    "주제별/WIP-FSD-폴더구조.md",
     "주제별/WIP-LLM-설계.md",
-    "주제별/typescript-마이그레이션-팁.md",
-    "주제별/http-요청-라이브러리.md",
-    "주제별/컴포넌트를 만드는 기준.md",
     "주제별/폴더 구조.md",
-    "주제별/css-라이브러리.md",
+    "주제별/컴포넌트를 만드는 기준.md",
+    "주제별/http-요청-라이브러리.md",
+    "주제별/typescript-마이그레이션-팁.md",
+    "주제별/react-hook-form.md",
     "주제별/daisyui-장점과-단점.md",
+    "주제별/css-라이브러리.md",
+    "주제별/WIP-FSD-폴더구조.md",
     "cover-image.png",
     "debt.md",
     "retrospective.md",
