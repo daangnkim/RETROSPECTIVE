@@ -17,4 +17,4 @@
 
 2.
 
-dependent query가 존재하는 query는 dependent 하는 파라미터 타입을 optional 파라미터로 만드는건 필연적인듯. 왜냐하면 파라미터는 앞의 query가 끝나기 전까지는 
+dependent query가 존재하는 query는 dependent 하는 파라미터 타입을 optional 파라미터로 만드는건 필연적인듯. 왜냐하면 앞의 query가 끝나기 전까지는 당연하게도 파라미터가 undefined기 때문에.
