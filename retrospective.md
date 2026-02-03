@@ -18,3 +18,7 @@
 2.
 
 dependent query가 존재하는 query는 dependent 하는 파라미터 타입을 optional 파라미터로 만드는건 필연적인듯. 왜냐하면 앞의 query가 끝나기 전까지는 당연하게도 파라미터가 undefined기 때문에.
+
+3.
+
+FE 변수명에 괜히 BE 변수명을 침투시키는 것은 좋지 않은 것 같다. 가령, Create, Update를 쓰기보다는 Add, Delete를 쓰는게 좋은 것 같다.
