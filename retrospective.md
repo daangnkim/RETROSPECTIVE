@@ -21,4 +21,6 @@ dependent query가 존재하는 query는 dependent 하는 파라미터 타입을
 
 3.
 
-FE 변수명에 괜히 BE 변수명을 침투시키는 것은 좋지 않은 것 같다. 가령, Create, Update를 쓰기보다는 Add, Delete를 쓰는게 좋은 것 같다.
+FE 변수명에 괜히 BE 변수명을 `억지로` 침투시키는 것은 좋지 않은 것 같다. 가령, 차량 모델을 추가할 때 Create, Update를 쓰기보다는 Add, Edit를 쓰는게 좋은 것 같다. 
+
+약간 FE는 1순위로 행위를 변수명에 녹이고 2순위로 CRUD를 녹인다고 한다면 BE는 1순위로 CRUD를 변수명에 녹이고 2순위로 행위를 녹이는 방향성이 좋은 듯.
