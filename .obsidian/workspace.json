@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "fe-diary"
             }
-          },
-          {
-            "id": "b0700cb9fe3a95a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fe-diary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fe-diary"
-            }
-          },
-          {
-            "id": "3169783986a6ff63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "be-diary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "be-diary"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3169783986a6ff63",
+  "active": "68518a294ab22680",
   "lastOpenFiles": [
+    "fundamental.md",
+    "fe-diary.md",
+    "README.md",
+    "be-diary.md",
     "cover-image.png",
     "debt.md",
-    "fe-diary.md",
-    "be-diary.md",
-    "question.md",
     "tech.md",
     "주제별/Untitled.md",
     "주제별/WIP-LLM-설계.md",
@@ -228,7 +200,6 @@
     "주제별/daisyui-장점과-단점.md",
     "주제별/css-라이브러리.md",
     "주제별/WIP-FSD-폴더구조.md",
-    "README.md",
     "ui-ux.md",
     "tech-debt.md",
     "conflict-files-obsidian-git.md",
