@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "question.md",
+                "file": "be-diary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "question"
+              "title": "be-diary"
             }
           }
         ],
@@ -212,10 +212,12 @@
   },
   "active": "3169783986a6ff63",
   "lastOpenFiles": [
-    "tech.md",
-    "be-diary.md",
+    "cover-image.png",
+    "debt.md",
     "fe-diary.md",
+    "be-diary.md",
     "question.md",
+    "tech.md",
     "주제별/Untitled.md",
     "주제별/WIP-LLM-설계.md",
     "주제별/폴더 구조.md",
@@ -226,8 +228,6 @@
     "주제별/daisyui-장점과-단점.md",
     "주제별/css-라이브러리.md",
     "주제별/WIP-FSD-폴더구조.md",
-    "cover-image.png",
-    "debt.md",
     "README.md",
     "ui-ux.md",
     "tech-debt.md",
@@ -237,7 +237,6 @@
     "주제별/useReducer를_통한_가독성향상.md",
     "주제별/daisyui_장점과_단점.md",
     "주제별/LLM-설계.md",
-    "주제별/FSD-폴더구조.md",
-    "비공개/README.md"
+    "주제별/FSD-폴더구조.md"
   ]
 }
